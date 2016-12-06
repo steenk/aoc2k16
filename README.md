@@ -7,5 +7,6 @@ I hate to see any spoilers before I start coding, but afterwards it is fun to se
 * [Day 1](01/README.md)
 * [Day 2](02/README.md)
 * [Day 3](03/README.md)
-* [Day_4](04/README.md)
-
+* [Day 4](04/README.md)
+* [Day 5](05/README.md)
+* [Day 6](06/README.md)
