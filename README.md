@@ -10,3 +10,7 @@ I hate to see any spoilers before I start coding, but afterwards it is fun to se
 * [Day 4](04/README.md)
 * [Day 5](05/README.md)
 * [Day 6](06/README.md)
+* [Day 7](07/README.md)
+* [Day 8](08/README.md)
+* [Day 9](09/README.md)
+* [Day 10](10/README.md)
